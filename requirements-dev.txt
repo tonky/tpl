@@ -1,0 +1,5 @@
+pytest
+flask-testing
+mypy-lang
+flake8  
+httpie
